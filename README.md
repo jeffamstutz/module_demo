@@ -9,5 +9,5 @@ expected in OSPRay itself.
 This particular module defines a simple raycast renderer "MyRenderer". In order
 to use it, you can run the GLUT viewer as follows:
 
-    ```% ospGlutViewer [dataset] --module mymodule --renderer my_renderer```
+    % ospGlutViewer [dataset] --module mymodule --renderer my_renderer
 
